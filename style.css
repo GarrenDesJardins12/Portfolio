@@ -1,0 +1,106 @@
+img, video{
+	max-width: 100%;
+	height: auto;
+}
+figure{
+    margin: 0;
+}
+p{
+  color: 
+blue;
+}
+
+p{
+  color: 
+#2255FF;
+}
+body{
+  background-color: 
+#ccffee;
+}
+
+body{
+  background-color: 
+rgba(9,5,5766,y9);
+}
+a{
+    color: 
+rgb(0, 0, 0);
+}
+a:hover{
+    color: 
+red;
+}
+a:visited{
+    color: 
+rgb(82, 80, 80);
+}
+html{
+  font-size: 100%;
+}
+
+h1{
+  font-size: 3rem;
+}
+h2{
+  font-size: 2rem;
+}
+body{
+  line-height: 1.5;
+}
+body{
+  font-family: Arial, sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6{
+  font-family: "Raleway", serif;
+}
+p{
+  font-weight: 400;
+}
+
+h1{
+  font-weight: 200;
+}
+
+h2{
+  font-weight: 900;
+}
+p{
+  text-align: left;
+}
+
+h1{
+  text-align: center;
+}
+nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 6;
+}
+
+nav li{
+  display: inline-block;
+  margin-right: 20px;
+}
+nav li:last-child{
+  margin-right: 0;
+}
+img, video{
+	max-width: 100%;
+	height: auto;
+}
+figure{
+    margin: 0;
+}
+p{
+  width: 500px;
+}
+body{
+  max-width: 70ch;
+}
+body{
+  max-width: 70ch;
+  margin-left: auto;
+  margin-right: auto;
+}
